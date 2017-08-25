@@ -7,4 +7,5 @@
 /.idea
 /.checkstyle
 /.vscode
+/*.log
 /libs/*.jar
